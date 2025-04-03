@@ -40,6 +40,9 @@ This project simulates a **robot as a point** in a 2D space, which:
 - This mimics **chaotic Brownian movement**.
 
 ---
+## 🌀 Simulation Preview
+
+![Brownian Motion Simulation](brownian_motion.gif)
 
 ## 💻 Run It Yourself
 
